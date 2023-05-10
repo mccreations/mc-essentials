@@ -24,7 +24,7 @@ public final class WarpEvent implements Cancellable, Event {
     /**
      * @return the user's uuid
      */
-    public UUID user() {
+    public UUID uuid() {
         return this.uuid;
     }
 
