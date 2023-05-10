@@ -1,0 +1,27 @@
+[versions]
+cloud = "1.8.2"
+commons = "f2b3ce1105"
+configurate-yaml = "4.1.2"
+event-api = "5.0.0-SNAPSHOT"
+guice = "5.1.0"
+hikaricp = "5.0.1"
+interfaces = "1.0.0-SNAPSHOT"
+luckperms = "5.4"
+minecraft = "1.19.4-R0.1-SNAPSHOT"
+mysql-connector-java = "8.0.33"
+pdjbdc-ng = "0.8.9"
+
+[libraries]
+cloud-annotations = { module = "cloud.commandframework:cloud-annotations", version.ref = "cloud" }
+cloud-paper = { module = "cloud.commandframework:cloud-paper", version.ref = "cloud" }
+commons = { module = "com.github.mccreations:mc-commons", version.ref = "commons" }
+configurate-yaml = { module = "org.spongepowered:configurate-yaml", version.ref = "configurate-yaml" }
+event-api = { module = "net.kyori:event-api", version.ref = "event-api" }
+folia-api = { module = "dev.folia:folia-api", version.ref = "minecraft" }
+guice = { module = "com.google.inject:guice", version.ref = "guice" }
+hikaricp = { module = "com.zaxxer:HikariCP", version.ref = "hikaricp" }
+interfaces-paper = { module = "org.incendo.interfaces:interfaces-paper", version.ref = "interfaces" }
+luckperms = { module = "net.luckperms:api", version.ref = "luckperms" }
+mysql-connector-java = { module = "mysql:mysql-connector-java", version.ref = "mysql-connector-java" }
+paper-api = { module = "io.papermc.paper:paper-api", version.ref = "minecraft" }
+pdjbdc-ng = { module = "com.impossibl.pgjdbc-ng:pgjdbc-ng", version.ref = "pdjbdc-ng" }
