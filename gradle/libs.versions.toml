@@ -1,6 +1,6 @@
 [versions]
 cloud = "1.8.2"
-commons = "f2b3ce1105"
+commons = "8459af531c"
 configurate-yaml = "4.1.2"
 event-api = "5.0.0-SNAPSHOT"
 guice = "5.1.0"

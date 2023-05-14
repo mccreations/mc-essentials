@@ -1,7 +1,7 @@
 package io.github.mccreations.warps.api.warp;
 
 import io.github.mccreations.commons.utils.Placeholdered;
-import io.github.mccreations.commons.utils.position.FinePosition;
+import io.github.mccreations.commons.utils.FinePosition;
 import net.kyori.adventure.audience.Audience;
 import net.kyori.adventure.text.minimessage.tag.resolver.Placeholder;
 import net.kyori.adventure.text.minimessage.tag.resolver.TagResolver;

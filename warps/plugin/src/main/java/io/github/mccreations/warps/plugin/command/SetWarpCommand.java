@@ -6,7 +6,7 @@ import cloud.commandframework.annotations.CommandPermission;
 import com.google.inject.Inject;
 import io.github.mccreations.commons.config.ConfigManager;
 import io.github.mccreations.commons.container.CommandContainer;
-import io.github.mccreations.commons.utils.position.FinePosition;
+import io.github.mccreations.commons.utils.FinePosition;
 import io.github.mccreations.warps.api.warp.Warp;
 import io.github.mccreations.warps.api.warp.WarpsService;
 import io.github.mccreations.warps.plugin.config.Messages;

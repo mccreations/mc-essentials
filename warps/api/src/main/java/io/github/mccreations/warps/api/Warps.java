@@ -1,7 +1,7 @@
 package io.github.mccreations.warps.api;
 
 import io.github.mccreations.commons.event.EventService;
-import io.github.mccreations.commons.utils.position.FinePosition;
+import io.github.mccreations.commons.utils.FinePosition;
 import io.github.mccreations.warps.api.warp.Warp;
 import io.github.mccreations.warps.api.warp.WarpsService;
 import org.checkerframework.checker.nullness.qual.Nullable;

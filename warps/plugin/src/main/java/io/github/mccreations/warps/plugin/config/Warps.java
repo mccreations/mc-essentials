@@ -1,7 +1,7 @@
 package io.github.mccreations.warps.plugin.config;
 
 import io.github.mccreations.commons.container.ConfigContainer;
-import io.github.mccreations.commons.utils.position.FinePosition;
+import io.github.mccreations.commons.utils.FinePosition;
 import io.github.mccreations.warps.plugin.warp.WarpImpl;
 import org.spongepowered.configurate.objectmapping.ConfigSerializable;
 

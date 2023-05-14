@@ -3,7 +3,7 @@ package io.github.mccreations.warps.plugin;
 import io.github.mccreations.commons.Loader;
 import io.github.mccreations.commons.command.CommandManager;
 import io.github.mccreations.commons.event.EventService;
-import io.github.mccreations.commons.utils.position.FinePosition;
+import io.github.mccreations.commons.utils.FinePosition;
 import io.github.mccreations.warps.api.Warps;
 import io.github.mccreations.warps.api.WarpsProvider;
 import io.github.mccreations.warps.api.warp.Warp;
