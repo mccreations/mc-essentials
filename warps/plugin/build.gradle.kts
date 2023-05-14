@@ -4,10 +4,6 @@ plugins {
     id("plugin-conventions")
 }
 
-repositories {
-    maven("https://jitpack.io/")
-}
-
 dependencies {
     implementation(project(":warps:api"))
     implementation(libs.cloud.paper)

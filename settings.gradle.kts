@@ -8,6 +8,10 @@ includePluginAndApi(
     "warps"
 )
 
+include(
+    "workbenches:plugin"
+)
+
 fun includePluginAndApi(vararg paths: String) {
     paths.forEach {
         include(
